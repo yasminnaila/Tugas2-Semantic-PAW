@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html>
+    
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Yasmin Naila Ramadhanti">
-    <meta name="keyword" content="Belajar HTML, Belajar Web">
-    <meta name="description" content="Praktikum modul 2">
+    <meta name="keyword" content="Tugas">
+    <meta name="description" content="modul 2">
     <meta name="robots" content="index, follow">
 </head>
 
 <body>
 
-<div>
-<table>
 
     <style>
         table {
@@ -44,50 +43,49 @@
     <thead>
         <tr>
             <th widht="10%">
-                <img src="LOGO ITTS.jpeg"alt = "LOGO IITS" width="100"/>
+                <img src="LOGO ITTS.jpeg" alt = "LOGO IITS" width="100" height="40%"/>
             </th>
             <th><table>
                 <thead>
                     <tr>
-                            
-                                                <th>Tentang Kami</th>
-                                                <th>Akademik</th>
-                                                <th>Dosen& Staf</th>
-                                                <th>Kerja Sama</th>
-                                                <th>Blog</th>
-                                            </thead>
-                                        </thead>
-                                    </table></th>
-                                    <th>Admisi</th>
-                        </tr>
+                         <th>Tentang Kami</th>
+                         <th>Akademik</th>
+                         <th>Dosen& Staf</th>
+                         <th>Kerja Sama</th>
+                         <th>Blog</th>
+                    </tr>
+                     </thead>
+                         </table></th>
+                         <th><a href=""https://smb.telkomuniversity.ac.id/surabaya/">Admisi</a></th>
+                    </tr>
                 </thead>
-                    </table>
-            </td>
-
-                   <tr>
-                        <th>Blog Sistem Informasi</th>
-
-                   </tr>
-                <tr>
-                    <td>
-                        <table>
-                            <th>
-                                <h3 style="text-align: left;"> Dua Wisudawan Sistem Informasi Berhasil Meraih Predikat Cumlaude </h3>
+             </table>
+        </td>
+         
+        <tr>
+            <th>
+                <h2>Blog Sistem Informasi</h2>
+            </th>
+        </tr> 
+            
+        <tr>
+            <td>
+                <table>
+                    <th>
+                        <h3 style="text-align: left;"> Dua Wisudawan Sistem Informasi Berhasil Meraih Predikat Cumlaude </h3>
                                 <h5 style="text-align: left; font-weight: normal;">Institut Teknologi Telkom Surabaya telah menggelar prosesi wisuda ke-1 secara luring di hotel Grand Dafam, Surabaya pada Sabtu (26/03/2022) kemarin. Prosesi wisuda ini merupakan
                                     yang pertama dilakukan sejak kampus ini berdiri di tahun 2018 lalu. Pada wisuda pertama ini, 16 wisudawan telah dinyatakan lulus secara sah oleh Rektor IT Telkom Surabaya Bapak Dr. Tri Arief Sardjono, S.T.,</h5>
-    
-                                <h5 style="text-align: left; font-weight: normal;">Seluruh wisudawan merupakan mahasiswa yang berhasil lolos dengan masa studi 3,5 tahun. Dua diantaranya merupakan mahasiswa program studi Sistem Informasi. Mereka adalah 
-                                    Amalina Tri Setya Berliana dan Irene Dyah Ayuwati. Keduanya berhasil menyandang gelar S.Kom dengan predikat cumlaude. Wisudawan dengan IPK tertinggi adalah Amalina Tri Setya
-                                    Berliana yang tidak lain merupakan mahasiswa program studi Sistem Informasi dengan IPK 3,96.</h5>
-    
-                                <h5 style="text-align: left; font-weight: normal;">   Pada prosesi wisuda ini pula, Rektor ITTelkom Surabaya telah menyampaikan pesannya dengan penuh sukacita. Beliau berpesan bagi seluruh wisudawan agar terus mengebankan diri
-                                    sehingga dapat mengambil peran di era transformasi digital yang distruptif ini. Acara wisuda ini dapat disaksikan melalui kanal youtube ITTelkom Surabaya <a href="https://youtu.be/k1-Erdksi6o">https://youtu.be/k1-Erdksi6o</a>
-                                </h5>
 
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/bboTVfT1NWY?si=asBGaWVkN3jtT0ty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="float: left;"></iframe>
-                                
-                                </th>    
-                            <aside>
+                                 <h5 style="text-align: left; font-weight: normal;">Seluruh wisudawan merupakan mahasiswa yang berhasil lolos dengan masa studi 3,5 tahun. Dua diantaranya merupakan mahasiswa program studi Sistem Informasi. Mereka adalah 
+                                        Amalina Tri Setya Berliana dan Irene Dyah Ayuwati. Keduanya berhasil menyandang gelar S.Kom dengan predikat cumlaude. Wisudawan dengan IPK tertinggi adalah Amalina Tri Setya
+                                        Berliana yang tidak lain merupakan mahasiswa program studi Sistem Informasi dengan IPK 3,96.</h5>
+        
+                                <h5 style="text-align: left; font-weight: normal;">   Pada prosesi wisuda ini pula, Rektor ITTelkom Surabaya telah menyampaikan pesannya dengan penuh sukacita. Beliau berpesan bagi seluruh wisudawan agar terus mengebankan diri
+                                        sehingga dapat mengambil peran di era transformasi digital yang distruptif ini. Acara wisuda ini dapat disaksikan melalui kanal youtube ITTelkom Surabaya <a href="https://youtu.be/k1-Erdksi6o">https://youtu.be/k1-Erdksi6o</a></h5>
+    
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/bboTVfT1NWY?si=asBGaWVkN3jtT0ty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="float: left;"></iframe>
+                                    
+                                </th>
                                 <th style="width:20%;">
                                     <h4 style="text-align: left;">Artikel Terbaru</h4>
                                     <ul style="text-align: left; font-weight: normal;">
@@ -110,7 +108,7 @@
                             </table>
                         </td>  
                     </tr>  
-                    
+
                     <tr>
                         <td>
                             <table>
@@ -130,7 +128,7 @@
                                         <li>Kerja Sama</li>
                                         <li>Proyek</li></small>
                                     </ul>
-            
+
                                     <h4 style="text-align: left;">Tautan Bermanfaat</h4>           
                                     <ul style="text-align: left; font-weight: normal;">
                                         <small>
@@ -140,7 +138,7 @@
                                         <li>Website SMB</li></small>
                                     </ul>
                                 </th>
-            
+
                                 <th style=" width:20%;">
                                     <h4 style="text-align: left;">Info Kontak</h4>           
                                     <ul style="text-align: left; font-weight: normal;">
@@ -149,7 +147,7 @@
                                         <li><b>Telepon:</b> +62 31 8280800</li>
                                         <li><b>Email:</b> is@ittelkom-sby.ac.id</li></small>
                                     </ul>
-            
+
                                     <h4 style="text-align: left;">Media Sosial</h4>           
                                     <ul style="text-align: left; font-weight: normal;">
                                         <small>
@@ -159,3 +157,15 @@
                             </table>
                         </td>  
                     </tr>
+
+                    <tr>
+                        <th>
+                        <h4 style="text-align: left; line-height: 0.3;">Copyright © 2022 Information System</h4>
+                        <h5 style="text-align: left; font-weight: 0.3;">Build with ♥ by CODER Team</h5>
+                        </th>
+                    </tr>
+
+                </table>
+
+</body>
+</html>
